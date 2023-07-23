@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hello GitHub Fans 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<!--
-**GeeVong/GeeVong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm GeeVong
 
-Here are some ideas to get you started:
+### ✨ Quick Facts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently Want Find Job With Golang & C++ Server Dev
+- 🌱 I’m currently learning React/nasm
+- 🎿 Hobbies other than coding : Reading or about History and Philosophical , Playing Games, Thinking about writing blogs🤖..
+- 📫 How to reach me: [lodaccx@gmail.com](lodaccx@gmail.com)
+- 📖 My Blog：
+
+### 🛠 技术栈 | Tech Stack
+
+Golang、C++、MySQL、Redis、Git、Linux、
+
+### 📄文章 | Articles
+
+
+### 🪴More about me
+
+
+> ***Keep Foolish,Keep Learning!***
