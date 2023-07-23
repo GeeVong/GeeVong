@@ -1,17 +1,14 @@
-## Hello GitHub Fans 👋
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
-
 ### I'm GeeVong 我是一名普通程序员，从事游戏行业-后端
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GeeVong&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GeeVong&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tangly1024&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GeeVong&theme=github" />
   </a>
 </div>
 
@@ -20,7 +17,7 @@
 </div>
 
 
-<!-- ![tangly1024's GitHub stats](https://github-readme-stats.vercel.app/api?username=tangly1024&show_icons=true&theme=ayu-mirage) -->
+<!-- ![GeeVong's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeeVong&show_icons=true&theme=ayu-mirage) -->
 
 ### ✨ Quick Facts
 
