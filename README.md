@@ -1,5 +1,5 @@
 ### I'm GeeVong 
-  普通程序员兴趣爱好广泛，包括单不局限于：Golang、C++、MySQL、Redis、Git、Linux、React、nasm、web3、blockchain、solidity、Digital Nomad Hub、English、Self-media、youtube、Photography、hiking、
+  普通程序员兴趣爱好广泛，包括不局限于：Golang、C++、MySQL、Redis、Git、Linux、React、nasm、web3、blockchain、solidity、Digital Nomad Hub、English、Self-media、youtube、Photography、hiking、
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
